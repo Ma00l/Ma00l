@@ -5,9 +5,8 @@ CHCP 1250
 CLS
 
 REM  ISC License Copyright ^(c^) 2018^, cnleo
-REM  https://github.com/cnleo
+REM  https://github.com/cnleo/nvidia-telemetry-remove
 REM  https://choosealicense.com/licenses/isc/
-ECHO(
 
 REM  LESEN:
 ECHO(
@@ -54,7 +53,7 @@ ECHO  ... fertig.
 ECHO(
 ECHO  Task NvTmRepOnLogon wird deaktiviert^, sofern vorhanden ...
 schtasks /change /TN NvTmRepOnLogon_{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8} /disable
-ECHO ... fertig.
+ECHO  ... fertig.
 
 ECHO(
 PAUSE 

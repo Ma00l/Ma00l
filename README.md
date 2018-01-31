@@ -23,9 +23,9 @@ https://gist.github.com/CHEF-KOCH/489686c18b709f064be9eb5180880b9f
 
 ### Deaktiviert 3 Einträge im Taskmanager | der Aufgabenplanung
 
-NvTmMon_{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}
-NvTmRep_{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}
-NvTmRepOnLogon_{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}
+* NvTmMon_{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}
+* NvTmRep_{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}
+* NvTmRepOnLogon_{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}
 
 ### Aufruf der Deinstallationsroutine von Nvidia zum deinstallieren des NvTelemetryContainer
 
