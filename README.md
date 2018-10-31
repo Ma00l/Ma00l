@@ -14,10 +14,6 @@ Das Script führt durch die einzelnen Schritte.
 Es gibt ein Tool das etwas mehr Komfort bieten und wohl auch für neuere Betriebssysteme funktioniert. Es fehlen allerdings die Ergänzungen in der Hosts-Datei:
 https://github.com/NateShoffner/Disable-Nvidia-Telemetry
 
-Zusätzlich gibt es noch ein Batchscript das die ganzen „überschüssigen/bloatware“ Sub-Ordner im Nvidia Installations-Ordners entfernt. Also die Treiber erst extrahieren, dann mit dem Chef-Koch Script entfernen, dann die Treiber Installieren.
-https://gist.github.com/CHEF-KOCH/489686c18b709f064be9eb5180880b9f
-
-
 ## Programmablauf
 
 

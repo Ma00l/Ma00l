@@ -92,7 +92,7 @@ ECHO  Zunächst sollten sie aber prüfen^, ob bereits ein Nvidia Eintrag existiert
 ECHO  Wenn ja sind sie fertig und können dieses Fenster einfach schließen.
 ECHO  Andernfalls schließen Sie bitte Notepad mit der Hosts Datei wieder^, 
 ECHO  die sich automatisch für sie öffnete und fahren hier fort.
-notepad "%SystemRoot%\system32\drivers\etc\hosts" 
+notepad "%SystemRoot%\system32\drivers\etc\hosts"
 
 ECHO(
 PAUSE
@@ -145,7 +145,6 @@ ECHO(
 ECHO  ANDERE TOOLS:
 ECHO(
 ECHO  https://github.com/NateShoffner/Disable-Nvidia-Telemetry
-ECHO  https://gist.github.com/CHEF-KOCH/489686c18b709f064be9eb5180880b9f
 
 ECHO(
 
