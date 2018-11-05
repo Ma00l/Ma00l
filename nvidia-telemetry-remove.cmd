@@ -86,6 +86,7 @@ CLS
 ECHO(
 
 REM  LESEN:
+ECHO(
 ECHO  Zu guter Letzt werden in der HOSTS Datei noch die 
 ECHO  Telemetrie-Server-Adressen zum blocken hinzugefügt.
 ECHO  Zunächst sollten sie aber prüfen^, ob bereits ein Nvidia Eintrag existiert.
